@@ -1,1 +1,2 @@
-instruc
+informacion
+
